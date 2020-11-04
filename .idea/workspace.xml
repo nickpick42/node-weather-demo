@@ -37,7 +37,7 @@
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.dogutil.js">
+  <component name="RunManager" selected="Node.js.app.js">
     <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -46,8 +46,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.dogutil.js" />
         <item itemvalue="Node.js.app.js" />
+        <item itemvalue="Node.js.dogutil.js" />
       </list>
     </recent_temporary>
   </component>
@@ -59,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604304786076</updated>
-      <workItem from="1604304787146" duration="15504000" />
+      <workItem from="1604304787146" duration="17838000" />
     </task>
     <servers />
   </component>

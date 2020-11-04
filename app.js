@@ -5,6 +5,7 @@ const app = express()
 const view_dir = paths.join(__dirname,"/views")
 const partials_dir = paths.join(__dirname,"/views/partials")
 let utils = require("./utils/dogutil")
+const port = process.env.PORT || 3000
 
 
 
@@ -31,6 +32,6 @@ app.get("/",(req,res)=>{
 })
 
 
-app.listen(3000,()=>{
+app.listen(port,()=>{
     console.log("Listening on port 3000")
 })
